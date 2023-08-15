@@ -1,0 +1,21 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #232421;
+}
+
+.date 
+{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
